@@ -1,0 +1,12 @@
+[2021-12-11T20:55:34Z]Instantiated agent
+[2021-12-11T20:55:34Z]Received agent OPAQUE register initialization message
+[2021-12-11T20:56:36Z]OPAQUE registration complete
+[2021-12-11T20:57:37Z]Received new agent OPAQUE authentication initialization message
+[2021-12-11T20:58:39Z]Received agent OPAQUE authentication complete message
+[2021-12-11T20:58:39Z]Created job Type:Invalid: 11, ID:cuTyYLCSoJ, Status:Created, Args:[]
+[2021-12-11T20:59:50Z]Created job Type:Invalid: 13, ID:mivFUDUyiD, Status:Created, Args:[pwd]
+[2021-12-11T21:00:41Z]Instructing agent to re-authenticate with OPAQUE protocol
+[2021-12-11T21:01:43Z]Received new agent OPAQUE authentication initialization message
+[2021-12-11T21:02:44Z]Received agent OPAQUE authentication complete message
+[2021-12-11T21:02:44Z]Created job Type:Invalid: 11, ID:WZceoCbCdq, Status:Created, Args:[]
+[2021-12-11T21:04:47Z]Instructing agent to re-authenticate with OPAQUE protocol

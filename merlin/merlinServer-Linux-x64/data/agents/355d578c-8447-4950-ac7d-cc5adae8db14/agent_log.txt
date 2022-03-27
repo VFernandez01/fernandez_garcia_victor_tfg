@@ -1,0 +1,2 @@
+[2021-12-11T20:02:43Z]Instantiated agent
+[2021-12-11T20:02:43Z]Received agent OPAQUE register initialization message
