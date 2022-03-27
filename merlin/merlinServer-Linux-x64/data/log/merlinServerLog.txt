@@ -1,0 +1,133 @@
+[2021-12-04T18:36:26Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-04T18:58:17Z]Shutting down Merlin due to user input
+[2021-12-04T19:41:13Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-04T19:48:46Z]Shutting down Merlin due to user input
+[2021-12-04T20:00:30Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-04T20:04:23Z]Shutting down Merlin due to user input
+[2021-12-05T19:31:04Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T19:58:58Z]Shutting down Merlin due to user input
+[2021-12-05T19:59:11Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:00:23Z]Shutting down Merlin due to user input
+[2021-12-05T20:00:26Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:02:19Z]Shutting down Merlin due to user input
+[2021-12-05T20:02:20Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:24:56Z]Shutting down Merlin due to user input
+[2021-12-05T20:25:01Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:29:08Z]Received new agent OPAQUE user registration initialization from f1374c26-8f7c-46a1-913b-87d1d78ad7f9
+[2021-12-05T20:32:07Z]Shutting down Merlin due to user input
+[2021-12-05T20:33:46Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:34:09Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:39:19Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:39:39Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:39:47Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:39:51Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:39:59Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:48:17Z]Shutting down Merlin due to user input
+[2021-12-05T20:48:19Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:52:09Z]Received new agent OPAQUE user registration initialization from 6dccdaa5-0200-4819-8d59-91229be776f2
+[2021-12-05T20:53:52Z]Shutting down Merlin due to user input
+[2021-12-05T20:53:53Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:54:47Z]Shutting down Merlin due to user input
+[2021-12-05T20:54:49Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-05T20:56:05Z]Received new agent OPAQUE user registration initialization from e0f0b978-0ba8-40aa-ad2f-eec640e63155
+[2021-12-05T20:59:18Z]Shutting down Merlin due to user input
+[2021-12-09T18:40:25Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-09T18:42:26Z]Shutting down Merlin due to user input
+[2021-12-09T18:42:35Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-09T18:47:17Z]Received new agent OPAQUE user registration initialization from 933d66a3-723b-4578-b39f-58f35295b382
+[2021-12-09T18:50:06Z]Received new agent OPAQUE user registration initialization from 01ea07b9-5fb6-40ca-9dd5-fd1329bad25f
+[2021-12-09T18:50:36Z]Shutting down Merlin due to user input
+[2021-12-09T18:50:37Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-09T18:52:29Z]Received new agent OPAQUE user registration initialization from 5346e24e-6135-49d5-94dc-29f42a4c6d8d
+[2021-12-09T18:52:40Z]Shutting down Merlin due to user input
+[2021-12-09T20:05:29Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-09T20:07:35Z]Shutting down Merlin due to user input
+[2021-12-09T20:07:38Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-09T20:11:54Z]Received new agent OPAQUE user registration initialization from d7f67885-665f-47cd-ba87-aa4a1d9a267f
+[2021-12-09T20:15:01Z]Shutting down Merlin due to user input
+[2021-12-09T20:16:08Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-09T20:16:42Z]Received new agent OPAQUE user registration initialization from 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:16:47Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:17:20Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:17:51Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:18:25Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:18:58Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:19:31Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:20:03Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:20:35Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:21:09Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:21:42Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:22:16Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:22:49Z]Created authenticated JWT for 129fc27a-6177-4921-996d-3720730e6dc9
+[2021-12-09T20:23:06Z]Shutting down Merlin due to user input
+[2021-12-09T20:25:02Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T19:22:24Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T19:22:53Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T19:23:32Z]Received new agent OPAQUE user registration initialization from b4ecc070-e386-460f-a37a-33a77a914bce
+[2021-12-11T19:23:36Z]Created authenticated JWT for b4ecc070-e386-460f-a37a-33a77a914bce
+[2021-12-11T19:24:09Z]Created authenticated JWT for b4ecc070-e386-460f-a37a-33a77a914bce
+[2021-12-11T19:24:43Z]Created authenticated JWT for b4ecc070-e386-460f-a37a-33a77a914bce
+[2021-12-11T19:25:15Z]Created authenticated JWT for b4ecc070-e386-460f-a37a-33a77a914bce
+[2021-12-11T19:25:32Z]Shutting down Merlin due to user input
+[2021-12-11T19:25:34Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T19:28:59Z]Shutting down Merlin due to user input
+[2021-12-11T19:32:31Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T19:35:23Z]Received new agent OPAQUE user registration initialization from a2edf78e-5bb4-434f-8176-05ad2ab061c4
+[2021-12-11T19:36:52Z]Received new agent OPAQUE user registration initialization from c0220eca-9ec8-4978-a222-97066e7b0696
+[2021-12-11T19:40:31Z]Received new agent OPAQUE user registration initialization from e8074651-a2f0-4692-aafe-bffd095af4a9
+[2021-12-11T19:48:39Z]Shutting down Merlin due to user input
+[2021-12-11T19:48:46Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T20:01:11Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T20:02:43Z]Received new agent OPAQUE user registration initialization from 355d578c-8447-4950-ac7d-cc5adae8db14
+[2021-12-11T20:06:02Z]Shutting down Merlin due to user input
+[2021-12-11T20:20:20Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T20:21:59Z]Received new agent OPAQUE user registration initialization from a91c18eb-6f65-4875-a4cc-c2d6d29b69d7
+[2021-12-11T20:25:05Z]Created authenticated JWT for a91c18eb-6f65-4875-a4cc-c2d6d29b69d7
+[2021-12-11T20:30:13Z]Created authenticated JWT for a91c18eb-6f65-4875-a4cc-c2d6d29b69d7
+[2021-12-11T20:35:21Z]Created authenticated JWT for a91c18eb-6f65-4875-a4cc-c2d6d29b69d7
+[2021-12-11T20:37:08Z]Shutting down Merlin due to user input
+[2021-12-11T20:49:19Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T20:50:25Z]Received new agent OPAQUE user registration initialization from c60ed913-719a-48be-ac14-ed6b0bcc12fe
+[2021-12-11T20:53:44Z]Shutting down Merlin due to user input
+[2021-12-11T20:53:45Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-11T20:55:34Z]Received new agent OPAQUE user registration initialization from 08876525-d739-4354-92e5-d44a9aee44cc
+[2021-12-11T20:58:39Z]Created authenticated JWT for 08876525-d739-4354-92e5-d44a9aee44cc
+[2021-12-11T21:02:44Z]Created authenticated JWT for 08876525-d739-4354-92e5-d44a9aee44cc
+[2021-12-11T21:05:01Z]Shutting down Merlin due to user input
+[2021-12-12T15:07:20Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:11:58Z]Shutting down Merlin due to user input
+[2021-12-12T15:11:59Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:14:53Z]Shutting down Merlin due to user input
+[2021-12-12T15:16:08Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:22:53Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:23:33Z]Shutting down Merlin due to user input
+[2021-12-12T15:23:36Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:26:17Z]Received new agent OPAQUE user registration initialization from 10d1b619-0417-4703-a2f7-527ce5561223
+[2021-12-12T15:31:10Z]Received new agent OPAQUE user registration initialization from ff686857-bee1-4c19-bc61-6b91b88c36df
+[2021-12-12T15:32:24Z]Received new agent OPAQUE user registration initialization from 7868db57-fba8-494c-8e86-3adc64da6c9d
+[2021-12-12T15:35:28Z]Created authenticated JWT for 7868db57-fba8-494c-8e86-3adc64da6c9d
+[2021-12-12T15:37:54Z]Shutting down Merlin due to user input
+[2021-12-12T15:38:09Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:38:52Z]Shutting down Merlin due to user input
+[2021-12-12T15:39:28Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:40:01Z]Shutting down Merlin due to user input
+[2021-12-12T15:40:03Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:41:35Z]Received new agent OPAQUE user registration initialization from 100b9eb2-3887-447e-a369-7b736e837471
+[2021-12-12T15:44:40Z]Created authenticated JWT for 100b9eb2-3887-447e-a369-7b736e837471
+[2021-12-12T15:48:15Z]Created authenticated JWT for 100b9eb2-3887-447e-a369-7b736e837471
+[2021-12-12T15:51:51Z]Created authenticated JWT for 100b9eb2-3887-447e-a369-7b736e837471
+[2021-12-12T15:55:29Z]Created authenticated JWT for 100b9eb2-3887-447e-a369-7b736e837471
+[2021-12-12T15:56:14Z]Shutting down Merlin due to user input
+[2021-12-12T15:56:38Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T15:59:19Z]Received new agent OPAQUE user registration initialization from 488f8c2b-d9a5-4204-8561-241f78e95a8b
+[2021-12-12T16:02:24Z]Created authenticated JWT for 488f8c2b-d9a5-4204-8561-241f78e95a8b
+[2021-12-12T16:04:41Z]Shutting down Merlin due to user input
+[2021-12-12T16:07:35Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T16:09:14Z]Received new agent OPAQUE user registration initialization from 58095c5c-c417-4535-9455-8d575bf2d8a7
+[2021-12-12T16:12:16Z]Shutting down Merlin due to user input
+[2021-12-12T16:12:48Z]Starting Merlin Server version 1.1.0 build nonRelease
+[2021-12-12T16:14:28Z]Received new agent OPAQUE user registration initialization from b35e2425-3fda-429a-ad50-6ec0b0b1ec5f
+[2021-12-12T16:17:33Z]Created authenticated JWT for b35e2425-3fda-429a-ad50-6ec0b0b1ec5f
+[2021-12-12T16:21:09Z]Created authenticated JWT for b35e2425-3fda-429a-ad50-6ec0b0b1ec5f
+[2021-12-12T16:24:45Z]Created authenticated JWT for b35e2425-3fda-429a-ad50-6ec0b0b1ec5f
+[2021-12-12T16:24:51Z]Shutting down Merlin due to user input
